@@ -12,9 +12,9 @@
 #define LIBDIVIDE_H
 
 // *** Version numbers are auto generated - do not edit ***
-#define LIBDIVIDE_VERSION "5.3.0"
+#define LIBDIVIDE_VERSION "5.4.0"
 #define LIBDIVIDE_VERSION_MAJOR 5
-#define LIBDIVIDE_VERSION_MINOR 3
+#define LIBDIVIDE_VERSION_MINOR 4
 #define LIBDIVIDE_VERSION_PATCH 0
 
 #include <stdint.h>
